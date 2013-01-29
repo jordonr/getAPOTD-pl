@@ -23,7 +23,7 @@ use File::Basename;
 #  
 #  
 
-$url = "http://apod.nasa.gov/apod/astropix.html"; # Podcast site
+$url = "http://apod.nasa.gov/apod/astropix.html"; # APOD site
 $imglocation = "~/Pictures/bg/space/"; # Where you want the pictures downloaded
 $backdrop = "~/.config/xfce4/desktop/backdrop.list"; # Where your xfce4 backdrop.list file is located
 
