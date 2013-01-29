@@ -2,7 +2,7 @@
 use WWW::Mechanize;
 use File::Basename;
 
-#  getAPOTD.rb
+#  getAPOTD.pl
 #  
 #  Copyright 2013 jordonr <jordonr@dev-linux>
 #  
